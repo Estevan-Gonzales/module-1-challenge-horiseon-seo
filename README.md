@@ -12,9 +12,9 @@ Through this project, I learned how to provide accessible written code through a
 
 ### Option 1:
 1. Inspect written HTML code directly on Github
-2. View Github page of raw HTML code.
+2. View Github page of raw HTML code using the link below:    
    https://github.com/Estevan-Gonzales/module-1-challenge-horiseon-seo/blob/main/index.html
-3. Use Developer Tools to view meta data associated with the compiled HTML below:
+3. Use Developer Tools to view meta data associated with the compiled HTML found below:      
    https://estevan-gonzales.github.io/module-1-challenge-horiseon-seo
 
 ### Option 2:
