@@ -15,8 +15,9 @@ Provide a short description explaining the what, why, and how of your project. U
 3. Inspect written code and HTML page with Live Server.
 
 Alternatively:
-1. Inspect written HTML code.
+1. Inspect written HTML code directly on Github
 2. View Github page of compiled HTML code.
+3. Use Developer Tools to view meta data.
 
 ## License
 
